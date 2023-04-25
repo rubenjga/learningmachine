@@ -17,6 +17,3 @@ git config --global init.defaultbranch <nombre de la branch> cambia el nombre de
 git log muestra el log.
 git rebase <rama principal> nos permite solcuionar conflictos de merge
 git reset --soft HEAD~1 vuelve a un commit anterior
-
-Añadimos una prueba
-Añado Branch 1 porque antes fallé y se añadió a la test
