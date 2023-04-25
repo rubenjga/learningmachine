@@ -36,3 +36,5 @@ Nos permite solucionar conflictos en los pull request cuando el merge es diferen
 
 **git reset variable**<br/> 
 **--soft HEAD~1** Vuelve a un commit anterior, se puede retroceder mas commits cambiando el valor de head.<br/>
+
+Branch 2
