@@ -15,4 +15,4 @@ git config --global init.defaultbranch <nombre de la branch> cambia el nombre de
 git log muestra el log.
 git reset --soft HEAD~1 vuelve a un commit anterior
 
-Esto va en la rama test
+Esto va en la rama branch1
