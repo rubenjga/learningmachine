@@ -1,10 +1,9 @@
 # learningmachine
-Repositorio para las prácticas en Cap
-Estamos modificando para los comandos básicos de Git de cara a la Wiki.
+<strong>Comandos git</strong>
 
-<<<<<<< HEAD
-git init inicia el repositorio.<br/>
-git clone <url> clona un repositorio.<br/>
+<strong>git init</strong><br/> 
+inicia el repositorio.<br/>
+git clone "url" clona un repositorio.<br/>
 git config --global nos permite configurar de manera global el git.<br/>
 git config --global -e nos muestra el fichero de configuración global.<br/>
 git status nos da la información de los ficheros.<br/>
