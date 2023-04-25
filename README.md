@@ -2,6 +2,7 @@
 Repositorio para las prácticas en Cap
 Estamos modificando para los comandos básicos de Git de cara a la Wiki.
 
+<<<<<<< HEAD
 git init inicia el repositorio.<br/>
 git clone <url> clona un repositorio.<br/>
 git config --global nos permite configurar de manera global el git.<br/>
