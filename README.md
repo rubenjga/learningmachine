@@ -28,6 +28,17 @@ Muestra el estado actual con información detallada sobre el estado actual.<br/>
 **Sin variable** nos muestra la branch en la que estamos trabajando.<br/>
 **nombrerama** Crea una rama nueva, pero no cambia a ella, solo la crea.<br/><br/>
 
+**git pull**</br>
+**Sin variable** Descarga la información del repositorio actualizada.<br/>
+**url rama** Descarga la información del repositorio de una rama especificada.<br/><br/>
+
+**git commit**<br/>
+Actualiza los ficheros añadidos y los dispone para push.<br/><br/>
+
+**git push**
+**Sin variable** Sube la información al repositorio tras el commit.<br/>
+**--set-upstrean origin rama** Envia y crea la rama en el repositorio. Deberá hacerse con cada nueva rama si no está previamente configurado.<br/><br/>
+
 **git log**<br/> 
 Muestra el log.<br/><br/>
 
