@@ -16,4 +16,4 @@ git log muestra el log.
 git reset --soft HEAD~1 vuelve a un commit anterior
 
 Añadimos una prueba
-Añado Branch 1
+Añado Branch 1 porque antes fallé y se añadió a la test
