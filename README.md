@@ -16,3 +16,4 @@ git log muestra el log.
 git reset --soft HEAD~1 vuelve a un commit anterior
 
 Añadimos una prueba
+Test para branchs
